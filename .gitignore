@@ -4,3 +4,35 @@
 # node modules
 node_modules/
 
+#package files
+package-lock.json
+package.json
+# log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+# OS files
+.DS_Store
+Thumbs.db
+# IDE files
+.vscode/
+.idea/
+# build output
+dist/
+build/
+# coverage directory
+coverage/
+# dotenv environment variables file
+.env.local
+.env.*.local
+# misc
+*.log
+*.tmp
+# test files
+*.spec.js
+*.test.js
+__tests__/
+
+
+
+
